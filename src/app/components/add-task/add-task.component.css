@@ -1,0 +1,10 @@
+.add-form{
+    margin-bottom: 40px;
+}
+.titulo-formulario{
+    font-style: italic;
+    font-size: 20px;
+    text-decoration: underline 2px black;
+    text-shadow: 1px 1px 3px gray
+    
+}

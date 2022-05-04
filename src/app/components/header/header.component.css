@@ -3,4 +3,12 @@ header{
     justify-content: space-between;
     align-items: center;
     margin-bottom: 20px;
+    background: rgb(245,245,245);
+    background: linear-gradient(25deg, rgba(245,245,245,1) 4%, rgba(33,130,59,1) 92%);
+}
+.titulo{
+    color: black;
+   
+    font-family: fantasy;
+    font-weight: 200;
 }
